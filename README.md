@@ -13,7 +13,7 @@ I'm a passionate Flutter developer who loves building beautiful, performant cros
 
 - **Languages:** Dart, JavaScript
 - **Mobile:** Flutter, Android
-- **Backend & Cloud:** Firebase (Authentication, Firestore, Storage, Cloud Functions, Messaging)
+- **Backend & Cloud:** Firebase (Authentica[![trophy](https://github-profile-trophy.vercel.app/?username=manmohan735&theme=gruvbox&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)tion, Firestore, Storage, Cloud Functions, Messaging)
 - **Other:** REST APIs, Git, CI/CD, Provider, BLoC
 
 ## 📈 GitHub Stats

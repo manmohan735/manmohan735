@@ -11,9 +11,9 @@ I'm a passionate Flutter developer who loves building beautiful, performant cros
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Dart, JavaScript
+- **Languages:** Dart, JavaScript,Python,C programming,HTML,CSS
 - **Mobile:** Flutter, Android
-- **Backend & Cloud:** Firebase (Authentica[![trophy](https://github-profile-trophy.vercel.app/?username=manmohan735&theme=gruvbox&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)tion, Firestore, Storage, Cloud Functions, Messaging)
+- **Backend & Cloud:** Firebase (Authentica[![trophy](https://github-profile-trophy.vercel.app/?username=manmohan735&theme=gruvbox&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)tion, Firestore, Storage, Cloud Functions, Messaging,MYSQL)
 - **Other:** REST APIs, Git, CI/CD, Provider, BLoC
 
 ## 📈 GitHub Stats
@@ -24,8 +24,8 @@ I'm a passionate Flutter developer who loves building beautiful, performant cros
 
 - [LinkedIn](https://www.linkedin.com/in/manmohan735)
 - [Twitter](https://twitter.com/manmohan735)
-- Email: manmohan735@gmail.com
+- Email: manmohan7191@gmail.com
 
 ---
 
-Let's build something amazing together with Flutter and Firebase!
+Let's build something amazing together!

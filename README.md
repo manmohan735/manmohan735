@@ -22,8 +22,7 @@ I'm a passionate Flutter developer who loves building beautiful, performant cros
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/manmohan735)
-- [Twitter](https://twitter.com/manmohan735)
+- [LinkedIn]([https://www.linkedin.com/in/manmohan735](https://www.linkedin.com/in/manmohan-m-cs/))
 - Email: manmohan7191@gmail.com
 
 ---
